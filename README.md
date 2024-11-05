@@ -1,4 +1,40 @@
-# IRENGE JOEL 
+# Joel Irenge Bahagarhe
+
+**Contact Information**  
+- **Location**: Sillim-dong, Gwanak-gu, 1542-14, Seoul, South Korea  
+- **Phone**: +82 10 6637 7542  
+- **Email**: [jlirenge@gmail.com](mailto:jlirenge@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/irenge-bahagarhe-joel-210099279](https://linkedin.com/in/irenge-bahagarhe-joel-210099279)  
+- **GitHub**: [github.com/joebaga](https://github.com/joebaga)  
+
+---
+
+## Skills
+
+### Programming Languages  
+- **Python**: Django, Jupyter Notebook,TensorFlow, Keras, PyTorch, NLTK
+- **Java**  
+- **PHP**  
+- **HTML/CSS**  
+- **JavaScript**  
+- **React**  
+
+### Databases  
+- MySQL  
+
+### Operating Systems  
+- Basic Linux  
+
+### Tools and Technologies  
+- Git  
+
+### Languages  
+- English (Fluent)  
+- French (Native)  
+- Korean (Intermediate)  
+- Swahili (Native)  
+
+---
 a recent graduate in Computer and Electronic Engineering with a passion for AI and technology-driven solutions. Check out my projects below to see some of my recent work.
 # Projects
 
@@ -19,7 +55,8 @@ a recent graduate in Computer and Electronic Engineering with a passion for AI a
 - **Results:** Generated visually accurate animation faces.
 
 ### Fashion Analyzer
-![Fashion Analyzer](URL-to-your-image)
+![Fashion Analyzer](<img width="724" alt="Screenshot 2024-11-05 at 1 43 36 PM" src="https://github.com/user-attachments/assets/6cc28e53-f91d-4901-84c9-08b999debd56">
+)
 - **Objective:** Analyze fashion trends based on images, providing users with style year, trend data, and keywords.
 - **Technologies:** PyTorch, Flutter, Python
 - **Role:** Implemented the AI model, designed the app UI, and handled data preprocessing.
@@ -30,14 +67,14 @@ a recent graduate in Computer and Electronic Engineering with a passion for AI a
 ## Web Development Projects
 
 ### Custom Portfolio on GitHub Pages
-![Portfolio Example](URL-to-your-image)
 - **Objective:** Design a personal portfolio with a sleek, dark aesthetic.
 - **Technologies:** GitHub Pages, SCSS, HTML/CSS
 - **Role:** Customized the Midnight theme and worked on SCSS imports.
 - **Results:** Created a visually appealing portfolio showcasing my work.
 
 ### Passionis Web
-![Passionis Web]([URL-to-your-image](https://private-user-images.githubusercontent.com/76142720/355322988-90b015c3-1aeb-4ddb-b7e8-d061973a3972.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA4MDI3MzksIm5iZiI6MTczMDgwMjQzOSwicGF0aCI6Ii83NjE0MjcyMC8zNTUzMjI5ODgtOTBiMDE1YzMtMWFlYi00ZGRiLWI3ZTgtZDA2MTk3M2EzOTcyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTA1VDEwMjcxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIzNWM5NGE0OTYyNTYzNWZjNzhjMTI5OGVkMTU4NTA4M2E4MzM5OTdiMGE0MzBjZDUyYjAxMzU1NjJjMTJkNzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.bM6cgUTQ2s6lyxIfe9aNnRbWAX8ZA-9ovU3c3Y9_T4o))
+![Passionis Web](<img width="1427" alt="passionis" src="https://github.com/user-attachments/assets/3f631494-b4cb-462e-aa49-15bdcba9d6d2">
+)
 - **Objective:** Build a small business-oriented web application for smooth online interactions.
 - **Technologies:** Next.js, TypeScript, Tailwind CSS
 - **Role:** Developed responsive components and optimized for small business needs.
@@ -55,7 +92,7 @@ a recent graduate in Computer and Electronic Engineering with a passion for AI a
 ## Other Projects
 
 ### Woodex
-![Woodex Tool](URL-to-your-image)
+
 - **Objective:** Develop a tool for pricing, configuration, and quote generation for businesses.
 - **Technologies:** Python, JavaScript, HTML, CSS
 - **Role:** Built modules to streamline quoting and configuration processes.
